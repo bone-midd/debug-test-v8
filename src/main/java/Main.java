@@ -169,3 +169,5 @@ GROUP BY u.id, u.username;
 # PR Merge: 2025-10-14 - refactor/merge-9670
 
 # PR Merge: 2025-10-14 - fix/merge-3005
+
+# PR Merge: 2025-10-14 - fix/merge-6790
