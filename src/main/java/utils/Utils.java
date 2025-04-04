@@ -143,3 +143,5 @@ GROUP BY u.id, u.username;
 # PR Merge: 2025-10-14 - enhancement/merge-7183
 
 # PR Merge: 2025-10-14 - docs/merge-3149
+
+# PR Merge: 2025-10-14 - docs/merge-4916
